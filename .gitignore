@@ -32,3 +32,5 @@ replay_pid*
 *.njsproj
 *.sln
 *.sw?
+out
+*/node_modules
